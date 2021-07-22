@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Self Marketing App</string>
+    <string name="email_message_text">Recruiter Email address</string>
+    <string name="recruiter_name_text">Recruiter Email address</string>
+    <string name="recruiter_contact_text">Recruiter Contact Number</string>
+    <string name="include_junior_text">include Junior</string>
+    <string name="ready_to_start_text">Ready to start now?</string>
+    <string name="available_date_text">Available for from date</string>
+    <string name="preview_button_text">Preview</string>
+</resources>
